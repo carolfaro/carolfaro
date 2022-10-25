@@ -1,4 +1,4 @@
-## <i>Hello everyone, I'm Carol Faro</i>!
+## <i>Hello World, I'm Carol Faro</i>!
 
 
 I'm a Full-Stack Developer living in São Paulo, Brasil.
